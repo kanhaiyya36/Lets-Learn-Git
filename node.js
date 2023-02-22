@@ -1,1 +1,1 @@
-console.log('I am learning the git and gitHub');
+console.log('github is just a mess for me');
